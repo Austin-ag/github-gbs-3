@@ -11,9 +11,7 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts",
-        "images.g.jres",
-        "images.g.ts"
+        "tilemap.g.ts"
     ],
     "targetVersions": {
         "branch": "v1.12.30",

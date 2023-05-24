@@ -18,7 +18,7 @@
 
 
 ## Step 1
-Begin the project by setting a background color on the screem!
+Begin the project by setting a background color on the screemm!
 
 
 - :tree: Open ``||scene:Scene||`` then drag the ``||scene:set background color||`` block into the ``||loops:on start||`` container already in the editor.

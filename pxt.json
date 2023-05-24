@@ -6,10 +6,14 @@
         "core": "*"
     },
     "files": [
-     
-       
+        "main.blocks",
+        "main.ts",
         "README.md",
-        
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
     ],
     "targetVersions": {
         "branch": "v1.12.30",

@@ -1,4 +1,4 @@
- # GBS: Shuriken dodge
+34 # GBS: Shuriken dodge
 
 
 ### @diffs true
@@ -18,7 +18,7 @@
 
 
 ## Step 1
-Begin the project by setting a background color on the screen!
+Begin the project by setting a background color on the screem!
 
 
 - :tree: Open ``||scene:Scene||`` then drag the ``||scene:set background color||`` block into the ``||loops:on start||`` container already in the editor.

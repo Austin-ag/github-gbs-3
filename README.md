@@ -30,7 +30,7 @@ Begin the project by setting a background color on the screen!
 - :mouse pointer: Check the Game Window on the right side of the screen to see the selected background color appear!
 
 
-- :mouse pointer: Click Next to go to the next step.
+- :mouse pointer: Click Next to go to the next step123.
 
 
 ![Code Ninjas logo](https://github.com/Code-Ninjas-Home-Office/game-building-session-tutorials/blob/master/images/Code_Ninjas_Color_Horizontal_small.jpg?raw=true, "Code Ninjas logo")

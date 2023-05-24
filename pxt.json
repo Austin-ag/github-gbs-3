@@ -8,11 +8,7 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md",
-        "assets.json",
-        "tilemap.g.jres",
-        "tilemap.g.ts"
-    ],
+        "README.md"    ],
     "targetVersions": {
         "branch": "v1.12.30",
         "tag": "v1.12.30",

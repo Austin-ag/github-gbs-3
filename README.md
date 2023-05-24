@@ -18,7 +18,7 @@
 
 
 ## Step 1
-Begin the project by setting a background colomn on the screemm!
+Begin the project by setting a background colomn on the screemm! Will it work???
 
 
 - :tree: Open ``||scene:Scene||`` then drag the ``||scene:set background color||`` block into the ``||loops:on start||`` container already in the editor.
